@@ -181,42 +181,16 @@ This provides an intuitive approximation of potential hazard impact.
 * Filtered event table
 * Real-time risk alert
 
+<img width="1564" height="897" alt="Image" src="https://github.com/user-attachments/assets/085f887a-d367-4114-851b-b0874dc5ed2d" />
+
 ### Top 10 View
 
 * Horizontal bar chart
 * Ranked magnitude-based comparison
 
-*(Add screenshots in your `/assets/screenshots` folder for GitHub)*
+<img width="1562" height="902" alt="Image" src="https://github.com/user-attachments/assets/9372adfe-fd9b-4caa-aab2-ecc648eb81d1" />
 
----
 
-## 🔮 **Future Enhancements**
-
-* AI-based magnitude prediction using past seismic sequences
-* Regional clustering of seismic hotspots
-* Integration with Twitter disaster signals
-* Heatmap visualization using Folium/Mapbox
-* SMS/Email early-warning notifications
-
----
-
-## 🙌 **Contributions**
-
-Pull requests, feature suggestions, and improvements are always welcome.
-
----
-
-## 📜 **License**
-
-MIT License. Free to use and modify.
-
----
-
-## ⭐ **If you like this project, give it a star on GitHub!**
-
----
-
-If you want, I can generate:
 
 * **A polished GitHub description section**
 * **Badges (build, version, license, python version)**
