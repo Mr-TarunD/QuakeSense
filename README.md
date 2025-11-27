@@ -9,6 +9,7 @@ A real-time earthquake monitoring, visualization, and risk intelligence platform
 
 <img width="1564" height="897" alt="Image" src="https://github.com/user-attachments/assets/085f887a-d367-4114-851b-b0874dc5ed2d" />
 <img width="1562" height="902" alt="Image" src="https://github.com/user-attachments/assets/9372adfe-fd9b-4caa-aab2-ecc648eb81d1" />
+
 ## 🚀 **Overview**
 
 **QuakeSense** is a real-time seismic analytics system that ingests live earthquake data from the USGS GeoJSON API, enriches it with domain-specific metrics, and presents it through an interactive, user-friendly analytics dashboard.
