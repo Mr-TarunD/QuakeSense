@@ -1,0 +1,31 @@
+time_utc,magnitude,severity,region,depth_km,depth_category,risk_score,risk_level,place,url
+2025-11-27 16:01:39.604000+00:00,4.8,Light,Indonesia,98.979,Intermediate,5.28,Moderate,"284 km WSW of Tual, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000re70
+2025-11-27 14:46:40.370000+00:00,3.35,Minor,U.S. Virgin Islands,58.38,Shallow,4.36,Moderate,"59 km NNE of Cruz Bay, U.S. Virgin Islands",https://earthquake.usgs.gov/earthquakes/eventpage/pr71500913
+2025-11-27 12:31:12.622000+00:00,4.9,Light,Philippines,22.361,Shallow,6.37,High,"199 km SE of Sarangani, Philippines",https://earthquake.usgs.gov/earthquakes/eventpage/us7000re52
+2025-11-27 12:26:00.870000+00:00,4.6,Light,Northern Mariana Islands,115.547,Intermediate,5.06,Moderate,"37 km SSE of San Jose Village, Northern Mariana Islands",https://earthquake.usgs.gov/earthquakes/eventpage/us7000re53
+2025-11-27 12:21:45.820000+00:00,3.71,Minor,CA,-0.889999985694885,Shallow,4.82,Moderate,"3 km SE of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75269971
+2025-11-27 12:21:06.820000+00:00,3.6,Minor,CA,2.57999992370605,Shallow,4.68,Moderate,"4 km SE of The Geysers, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75269961
+2025-11-27 10:54:07.653000+00:00,3.138231718155449,Minor,Alaska,35.51600646972656,Shallow,4.08,Moderate,"42 km SSE of Chiniak, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xiphyv
+2025-11-27 10:15:18.059000+00:00,4.0,Light,Bangladesh,10.0,Shallow,5.2,Moderate,"23 km NNE of Tungi, Bangladesh",https://earthquake.usgs.gov/earthquakes/eventpage/us7000re4q
+2025-11-27 09:59:14.142000+00:00,4.8,Light,Indonesia,53.253,Shallow,6.24,High,"143 km E of Bitung, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000re4b
+2025-11-27 09:29:46.600000+00:00,3.8737329827080544,Minor,Alaska,5.0,Shallow,5.04,Moderate,"97 km WNW of Skwentna, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak2025ximnlb
+2025-11-27 06:03:11.155000+00:00,4.5,Light,Chile,114.473,Intermediate,4.95,Moderate,"43 km S of Ollagüe, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/us7000re3u
+2025-11-27 05:43:40.509000+00:00,4.5,Light,Northern Mariana Islands,87.66,Intermediate,4.95,Moderate,"Maug Islands region, Northern Mariana Islands",https://earthquake.usgs.gov/earthquakes/eventpage/us7000re3s
+2025-11-27 05:32:44.973000+00:00,4.8,Light,Indonesia,19.149,Shallow,6.24,High,"85 km W of Gunungsitoli, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000re3f
+2025-11-27 05:19:06.310000+00:00,3.85,Minor,Dominican Republic,157.0,Intermediate,4.24,Moderate,"17 km SE of La Romana, Dominican Republic",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025331000
+2025-11-27 04:56:26.540000+00:00,6.6,Strong,Indonesia,25.388,Shallow,8.58,Critical,"45 km WNW of Sinabang, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000re2g
+2025-11-27 04:41:34.222000+00:00,4.5,Light,Philippines,103.078,Intermediate,4.95,Moderate,"58 km ESE of Sarangani, Philippines",https://earthquake.usgs.gov/earthquakes/eventpage/us7000re2f
+2025-11-27 03:10:48.268000+00:00,4.9,Light,Philippines,54.68,Shallow,6.37,High,"19 km ESE of Pagudpud, Philippines",https://earthquake.usgs.gov/earthquakes/eventpage/us7000re21
+2025-11-27 02:44:41.320000+00:00,3.03,Minor,Puerto Rico,46.49,Shallow,3.94,Low,"35 km NNW of San Antonio, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr71500883
+2025-11-27 00:14:10.325000+00:00,3.3,Minor,Texas,6.5674,Shallow,4.29,Moderate,"22 km N of Stanton, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025xhucqr
+2025-11-27 00:08:52.869000+00:00,4.7,Light,Greece,70.779,Intermediate,5.17,Moderate,"21 km NE of Pánormos, Greece",https://earthquake.usgs.gov/earthquakes/eventpage/us7000re1e
+2025-11-27 00:00:25.952000+00:00,4.5,Light,Indonesia,120.915,Intermediate,4.95,Moderate,"29 km S of Tondano, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000re19
+2025-11-26 23:25:15.606000+00:00,4.3,Light,Argentina,216.526,Intermediate,4.73,Moderate,"103 km NNW of San Antonio de los Cobres, Argentina",https://earthquake.usgs.gov/earthquakes/eventpage/us7000re17
+2025-11-26 23:00:42.304000+00:00,4.6,Light,Philippines,9.424,Shallow,5.98,High,"220 km SSE of Tabiauan, Philippines",https://earthquake.usgs.gov/earthquakes/eventpage/us7000re14
+2025-11-26 22:06:49.293000+00:00,4.3,Light,Japan,136.231,Intermediate,4.73,Moderate,"102 km N of Tarama, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000re0q
+2025-11-26 20:41:13.525000+00:00,4.6,Light,Fiji,565.297,Deep,4.14,Moderate,"245 km E of Levuka, Fiji",https://earthquake.usgs.gov/earthquakes/eventpage/us7000re03
+2025-11-26 19:54:23.495000+00:00,5.0,Moderate,Indonesia,10.0,Shallow,6.5,High,"111 km SW of Gunungsitoli, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rdzw
+2025-11-26 18:16:59.691000+00:00,4.4,Light,Russia,91.826,Intermediate,4.84,Moderate,"36 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rdzf
+2025-11-26 18:03:52.288000+00:00,5.2,Moderate,southeast of the Loyalty Islands,10.0,Shallow,6.76,High,southeast of the Loyalty Islands,https://earthquake.usgs.gov/earthquakes/eventpage/us7000rdze
+2025-11-26 17:01:20.656000+00:00,3.1,Minor,Texas,8.4229,Shallow,4.03,Moderate,"28 km SW of Garden City, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025xhftkz
+2025-11-26 16:43:57.472000+00:00,4.9,Light,Japan,79.145,Intermediate,5.39,Moderate,"56 km SSE of Shiranuka, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000rdxu
